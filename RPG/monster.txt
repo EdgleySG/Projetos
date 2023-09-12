@@ -1,0 +1,32 @@
+Orc
+Dragão
+Ogro
+Elfo Negro
+Kraken
+Quimera
+Ciclope
+Hidra
+Basilisco
+Harpia
+Medusa
+Minotauro
+Górgona
+Ogro
+Sirene
+Água Viva
+Mantícora
+Fénix
+Espectro
+Vampiro
+Lobisomem
+Zumbi
+Fantasma
+Lodo
+Golem de Ferro
+Mímico
+Sombra
+Devorador de Mentes
+Elemental de Fogo
+Elemental de Água
+Elemental de Terra
+Elemental de Ar
